@@ -1,6 +1,7 @@
 <a href="https://github.com/Senedaa">
-  <img src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.gif" alt="Working Computer" width="1600" height="400">
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Working Computer" width="1550" height="320">
 </a>
+
 
 <h1 align="center">Hi 👋 i'm Sened Abraham</h1>
 <h3 align="center">Your friendly neighborhood code comedian on GitHub! 💻</h3>
