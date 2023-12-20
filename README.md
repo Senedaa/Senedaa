@@ -1,5 +1,5 @@
 <a href="https://github.com/Senedaa">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Working Computer" width="1550" height="320">
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Working Computer" width="1500" height="310">
 </a>
 
 
