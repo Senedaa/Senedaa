@@ -8,8 +8,6 @@
 <img align="right" alt="Coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 - 🔭 I’m currently working on **42-So Long**
 
-- 🌱 I’m currently learning **Data Structures**
-
 - 📫 How to reach me **senedabraham927@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
